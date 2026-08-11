@@ -1,0 +1,16 @@
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Application/bin/Debug/net9.0/LoteCerto.Application.deps.json
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Application/bin/Debug/net9.0/LoteCerto.Application.dll
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Application/bin/Debug/net9.0/LoteCerto.Application.pdb
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Application/bin/Debug/net9.0/LoteCerto.Domain.dll
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Application/bin/Debug/net9.0/LoteCerto.Domain.pdb
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Application/obj/Debug/net9.0/LoteCerto.Application.csproj.AssemblyReference.cache
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Application/obj/Debug/net9.0/LoteCerto.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Application/obj/Debug/net9.0/LoteCerto.Application.AssemblyInfoInputs.cache
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Application/obj/Debug/net9.0/LoteCerto.Application.AssemblyInfo.cs
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Application/obj/Debug/net9.0/LoteCerto.Application.csproj.CoreCompileInputs.cache
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Application/obj/Debug/net9.0/LoteCerto.Application.sourcelink.json
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Application/obj/Debug/net9.0/LoteCert.72B1D6F6.Up2Date
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Application/obj/Debug/net9.0/LoteCerto.Application.dll
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Application/obj/Debug/net9.0/refint/LoteCerto.Application.dll
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Application/obj/Debug/net9.0/LoteCerto.Application.pdb
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Application/obj/Debug/net9.0/ref/LoteCerto.Application.dll

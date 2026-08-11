@@ -1,0 +1,12 @@
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Domain/bin/Debug/net9.0/LoteCerto.Domain.deps.json
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Domain/bin/Debug/net9.0/LoteCerto.Domain.dll
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Domain/bin/Debug/net9.0/LoteCerto.Domain.pdb
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Domain/obj/Debug/net9.0/LoteCerto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Domain/obj/Debug/net9.0/LoteCerto.Domain.AssemblyInfoInputs.cache
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Domain/obj/Debug/net9.0/LoteCerto.Domain.AssemblyInfo.cs
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Domain/obj/Debug/net9.0/LoteCerto.Domain.csproj.CoreCompileInputs.cache
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Domain/obj/Debug/net9.0/LoteCerto.Domain.sourcelink.json
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Domain/obj/Debug/net9.0/LoteCerto.Domain.dll
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Domain/obj/Debug/net9.0/refint/LoteCerto.Domain.dll
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Domain/obj/Debug/net9.0/LoteCerto.Domain.pdb
+/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Domain/obj/Debug/net9.0/ref/LoteCerto.Domain.dll

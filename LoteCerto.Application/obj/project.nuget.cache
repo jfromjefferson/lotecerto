@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "f7m0xlrzjF4=",
+  "success": true,
+  "projectFilePath": "/home/jfromjefferson/Documents/Projects/C#/lotecerto/LoteCerto.Application/LoteCerto.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/jfromjefferson/.nuget/packages/fluentvalidation/12.1.1/fluentvalidation.12.1.1.nupkg.sha512",
+    "/home/jfromjefferson/.nuget/packages/fluentvalidation.dependencyinjectionextensions/12.1.1/fluentvalidation.dependencyinjectionextensions.12.1.1.nupkg.sha512",
+    "/home/jfromjefferson/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

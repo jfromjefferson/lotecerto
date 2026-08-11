@@ -1,0 +1,6 @@
+@LoteCerto.API_HostAddress = http://localhost:5072
+
+GET {{LoteCerto.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
